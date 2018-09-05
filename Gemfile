@@ -22,7 +22,6 @@ group :development, :test do
   gem "capybara"
   gem "factory_bot_rails"
   gem "govuk-lint"
-  gem "poltergeist"
   gem "pry"
   gem "rspec-rails"
   gem "simplecov", require: false
